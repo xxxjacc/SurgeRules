@@ -1,0 +1,17 @@
+# RinrinのCustomEmbyRules for Surge
+# 自用Emby服规则集
+
+# > MSKY Emby
+DOMAIN,cf.5msky.com
+# > EDGE Emby
+DOMAIN,edge.staryuki.me
+# > NubeBelle Emby
+DOMAIN,emby.nubebelle.vip
+DOMAIN,emby.nubebelle.cn
+DOMAIN,emby-a.nubebelle.vip
+DOMAIN,emby-b.nubebelle.vip
+DOMAIN,emby-sg.nubebelle.vip
+# > Omni Emby
+DOMAIN,omni.313445.xyz
+# > YKK 1111 Emby
+DOMAIN,ykk.emby.moe
