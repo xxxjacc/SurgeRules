@@ -1,20 +1,27 @@
 # > ForwardWidgetFliter
-# > Original author VEUS
+# > Original Author VEUS
 # > Modified for Surge by Rinrin
-# > Last updated 2025-07-02 23:40 (UTC+8)
+# > Last updated 2025-07-03 12:10 (UTC+8)
+
+#Porn Streaming Modules
+DOMAIN-KEYWORD,javday
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,javrate.com
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,media-imdb.com
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,heimuer.tv
-DOMAIN-SUFFIX,iill.top
-DOMAIN-KEYWORD,javday
 DOMAIN-KEYWORD,btc620
 DOMAIN-KEYWORD,killcovid2021
 DOMAIN-KEYWORD,cdn77
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,javrate.com
+#Media Metadata Sources
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,tmdb.org
+#VOD Modules
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,dytt8vip.com
+DOMAIN-SUFFIX,imgzy360.com
+DOMAIN-SUFFIX,iill.top
