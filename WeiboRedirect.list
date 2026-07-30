@@ -1,0 +1,22 @@
+# > Redirect Weibo GeoLoc for Surge
+# > weibo-foreign-power modified by Rinrin
+# > Last updated 2026-07-30 17:00 (UTC+8)
+
+#!name=微博 Ruleset
+#!desc=境外势力 but for privacy.
+
+# Domain rules
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weico.cc
+DOMAIN-SUFFIX,maipo.me
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,api.weibo.cn
+DOMAIN-SUFFIX,dp.im.weibo.cn
+DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,api.uve.weibo.com
+DOMAIN-SUFFIX,uve.weibo.com
+DOMAIN-SUFFIX,ns.weibo.com
+
+# sinaimg.cn does not affect region display results, 
+# so no need to be paranoid (for now).
